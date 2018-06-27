@@ -53,16 +53,16 @@ class FaqList extends Component {
                       vCase.gg is the case opening site for{' '}
                       <a href="http://vgo.gg/" target="_blank">
                         VGO items.{' '}
-                      </a>. vCases are opened with a vKey.
+                      </a>. vCases bir vKey ile açılır.
                       <br />
                       <br />
-                      VGO items are digital items generated using blockchain
-                      technology, so anyone can trade a VGO item to whoever they
-                      want, whenever they want, without any restrictions, trade
-                      holds, or fear of bannings. Every VGO item is
-                      one-of-a-kind and generated from an Ethereum smart
-                      contract. These items cannot ever be subjected to any
-                      trading restrictions such as trade holds or bans.
+                      VGO öğeleri blockchain kullanılarak üretilen dijital öğelerdir
+                       Teknoloji, böylece herkes, bir
+                       İstedikleri zaman, herhangi bir kısıtlama olmaksızın, ticaret yapmak isterler.
+                       yasaklar ya da korkular. Her VGO öğesi
+                       bir-bir-tür ve bir Ethereum smart'dan üretilmiştir
+                       sözleşme. Bu ürünler hiç bir şeye tabi olamaz
+                       Ticaret tutarları veya yasaklar gibi ticaret kısıtlamaları.
                     </div>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        How do I get a vKey?
+                        Bir vKey'i nasıl alabilirim?
                       </button>
                     </h5>
                   </div>
@@ -87,13 +87,13 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      There are two ways to get a vKey:
+                      VKey almanın iki yolu vardır:
                       <ul>
                         <li>
-                          Purchase one from a marketplace that supports VGO
-                          items
+                          VGO'yı destekleyen bir pazardan satın alın
+                           ürün
                         </li>
-                        <li>Get a vKey in a trade from another VGO user</li>
+                        <li>Başka bir VGO kullanıcısındaki ticarette bir vKey edinin</li>
                       </ul>
                     </div>
                   </div>
@@ -108,7 +108,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        Why is there only one type of vKey?
+                        Neden sadece bir tür vKey var?
                       </button>
                     </h5>
                   </div>
@@ -119,7 +119,7 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      For simplicity, any vKey can open any vCase.
+                      Basitlik için, herhangi bir Anahtar herhangi bir Case açabilirsiniz.
                     </div>
                   </div>
                 </div>
@@ -133,7 +133,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        Why does it take so long to open a vCase?
+                        Bir Case açmak neden bu kadar uzun sürüyor?
                       </button>
                     </h5>
                   </div>
@@ -144,13 +144,13 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      vCase.gg is based on the Ethereum blockchain for now,
-                      which brings many advantages over traditional case opening
-                      sites, mainly transparency. However until we migrate to
-                      the WAX Blockchain, case openings can take up to two
-                      minutes to complete because of the speed of Ethereum
-                      blockchain. The WAX Blockchain will be much faster and
-                      will make case openings instant.
+                      vCase.gg, şimdilik Ethereum blockchain'i temel alıyor.
+                       geleneksel kasa açılışına göre birçok avantaj getiriyor
+                       siteler, esas olarak şeffaflık. Ancak biz taşınana kadar
+                       WAX Blockchain, kasa açıklıkları ikiye kadar alabilir
+                       Ethereum hızı nedeniyle tamamlanması dakikalar
+                       blockchain. WAX Blockchain çok daha hızlı olacak ve
+                       Vaka açılışlarını anında yapacaktır.
                     </div>
                   </div>
                 </div>
@@ -164,7 +164,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        Where do my VGO items go once a vCase is opened?
+                       VCase'ım açıldığında, VGO öğelerim nereye gider?
                       </button>
                     </h5>
                   </div>
@@ -175,8 +175,9 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      The VGO items that you receive from a vCase opening are
-                      sent to your{' '}
+                      Bir vCase açılışından aldığınız VGO öğeleri şunlardır:
+                       senin gönderdi
+                      {' '}
                       <a href="//trade.opskins.com/inventory" target="_blank">
                         OPSkins ExpressTrade Inventory
                       </a>.
