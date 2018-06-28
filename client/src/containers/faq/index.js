@@ -76,7 +76,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        Bir vKey'i nasıl alabilirim?
+                        Bir vKey i nasıl alabilirim?
                       </button>
                     </h5>
                   </div>
