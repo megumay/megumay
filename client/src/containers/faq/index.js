@@ -379,7 +379,7 @@ class FaqList extends Component {
                   >
                     <div className="card-body">
                      Evet. VCase işlevselliğini benimseyen tüm siteler
-                       otomatik olarak size ödenen% 5'lik bir ortaklık ücreti kazanırsınız.
+                       otomatik olarak size ödenen% 5 lik bir ortaklık ücreti kazanırsınız.
                        ETH de gerçek zamanlı. VCase ortaklık programı olduğundan
                        Akıllı sözleşme tabanlı, birisi bir vKey'i açmak için
                        Sitenizde vCase, ödemeniz anında gönderilecektir
