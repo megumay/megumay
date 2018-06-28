@@ -164,7 +164,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                       VCase'ım açıldığında, VGO öğelerim nereye gider?
+                       VCase ım açıldığında, VGO öğelerim nereye gider?
                       </button>
                     </h5>
                   </div>
@@ -194,7 +194,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        What can I do with my VGO items once I receive them?
+                       VGO öğelerimle bunları aldıktan sonra neler yapabilirim?
                       </button>
                     </h5>
                   </div>
@@ -205,10 +205,10 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      You can trade your VGO items to another VGO user for free
-                      on VGO.gg, as long as you have their VGO Trade URL. You
-                      can also sell or trade them to any marketplace that
-                      supports VGO items.
+                      VGO öğelerinizi başka bir VGO kullanıcısına ücretsiz olarak aktarabilirsiniz.
+                       VGO.gg de, kendi VGO Ticari URL niz olduğu sürece. Sen
+                       ayrıca herhangi bir pazara satış veya ticaret yapabilir
+                       VGO öğelerini destekler.
                     </div>
                   </div>
                 </div>
@@ -233,8 +233,8 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      VCases's opening odds are on average around 3x better than
-                      Steam's case opening odds.
+                      VCases in açılış oranları ortalama 3 kat daha iyi.
+                       Steam in kasa açılış oranları.
                     </div>
                   </div>
                 </div>
@@ -248,8 +248,8 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        How do I know that the vCase odds are what you claim
-                        they are?
+                        VCase oranlarının iddia ettiğiniz şey olduğunu nasıl bilebilirim?
+                         onlar?
                       </button>
                     </h5>
                   </div>
@@ -260,11 +260,11 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      You can check the results of all vCase openings because
-                      all items generated from vCases are recorded on the
-                      Ethereum blockchain. Each item generated links back to a
-                      blockchain transaction for full transparency. For this
-                      reason, VGO items also cannot be duplicated.
+                      Tüm vCase açılışlarının sonuçlarını kontrol edebilirsiniz çünkü
+                       vCases'ten üretilen tüm öğeler
+                       Eteryum blok zinciri. Her bir öğe, bir
+                       Tam şeffaflık için blockchain işlemi. Bunun için
+                       Nedeni, VGO öğeleri de çoğaltılamaz.
                     </div>
                   </div>
                 </div>
@@ -278,8 +278,8 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        Can I lose my VGO items, or can VGO get shut down by
-                        Steam?
+                        VGO öğelerimi kaybedebilir miyim, yoksa VGO kapanabilir mi?
+                         Buhar?
                       </button>
                     </h5>
                   </div>
@@ -290,11 +290,11 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      No. Since VGO uses blockchain technology, neither Steam or
-                      anyone else can shut it down. If the OPSkins ExpressTrade
-                      website disappeared tomorrow, the data behind the items
-                      would still exist and could be rendered with graphics to
-                      showcase the unique properties of the items.
+                      Hayır. VGO blockchain teknolojisini kullandığından, ne Steam ne de
+                       başkası kapatabilir. OPSkins ExpressTrade varsa
+                       web sitesi yarın ortadan kayboldu, öğelerin arkasındaki veriler
+                       hala var olacak ve grafiklerle işlenebilecek
+                       öğelerin benzersiz özelliklerini sergileyin.
                     </div>
                   </div>
                 </div>
@@ -308,7 +308,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        Why is there a minimum case opening quantity?
+                        Minimum kasa açılış miktarı neden var?
                       </button>
                     </h5>
                   </div>
@@ -319,15 +319,15 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      Because vCase is operating on the Ethereum blockchain at
-                      this time, there is a minimum case opening quantity due to
-                      ETH gas fees. Once we migrate to the WAX Blockchain, these
-                      minimums will change
+                      VCase, Ethereum blockchain üzerinde çalıştığından
+                       bu sefer, nedeniyle minimum bir kasa açılış miktarı
+                       ETH gaz ücretleri. WAX Blockchain'e geçtikten sonra, bunlar
+                       minimumlar değişecek
                     </div>
                   </div>
                 </div>
                 <h2 className="sub-header">
-                  How can I build my own vCase opening site?
+                  Kendi vCase açılış sitemi nasıl oluşturabilirim?
                 </h2>
                 <div className="card">
                   <div className="card-header" id={`heading-${faqIndex}`}>
@@ -380,7 +380,7 @@ class FaqList extends Component {
                     <div className="card-body">
                      Evet. VCase işlevselliğini benimseyen tüm siteler
                        otomatik olarak size ödenen% 5'lik bir ortaklık ücreti kazanırsınız.
-                       ETH'de gerçek zamanlı. VCase ortaklık programı olduğundan
+                       ETH de gerçek zamanlı. VCase ortaklık programı olduğundan
                        Akıllı sözleşme tabanlı, birisi bir vKey'i açmak için
                        Sitenizde vCase, ödemeniz anında gönderilecektir
                        Ethereum adresiniz.
