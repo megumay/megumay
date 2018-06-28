@@ -60,7 +60,7 @@ class FaqList extends Component {
                        Teknoloji, böylece herkes, bir
                        İstedikleri zaman, herhangi bir kısıtlama olmaksızın, ticaret yapmak isterler.
                        yasaklar ya da korkular. Her VGO öğesi
-                       bir-bir-tür ve bir Ethereum smart'dan üretilmiştir
+                       bir-bir-tür ve bir Ethereum smart dan üretilmiştir
                        sözleşme. Bu ürünler hiç bir şeye tabi olamaz
                        Ticaret tutarları veya yasaklar gibi ticaret kısıtlamaları.
                     </div>
