@@ -50,7 +50,7 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      vCase.gg is the case opening site for{' '}
+                      vCase.gg, durumun açılış sitesidir.{' '}
                       <a href="http://vgo.gg/" target="_blank">
                         VGO items.{' '}
                       </a>. vCases bir vKey ile açılır.
@@ -90,7 +90,7 @@ class FaqList extends Component {
                       VKey almanın iki yolu vardır:
                       <ul>
                         <li>
-                          VGO'yı destekleyen bir pazardan satın alın
+                          VGO yı destekleyen bir pazardan satın alın
                            ürün
                         </li>
                         <li>Başka bir VGO kullanıcısındaki ticarette bir vKey edinin</li>
@@ -321,7 +321,7 @@ class FaqList extends Component {
                     <div className="card-body">
                       VCase, Ethereum blockchain üzerinde çalıştığından
                        bu sefer, nedeniyle minimum bir kasa açılış miktarı
-                       ETH gaz ücretleri. WAX Blockchain'e geçtikten sonra, bunlar
+                       ETH gaz ücretleri. WAX Blockchaine geçtikten sonra, bunlar
                        minimumlar değişecek
                     </div>
                   </div>
