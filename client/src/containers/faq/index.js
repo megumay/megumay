@@ -39,7 +39,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        What is vCase.gg and how does it work?
+                        VCase.gg nedir ve nasıl çalışır?
                       </button>
                     </h5>
                   </div>
@@ -339,7 +339,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        Can I create my own vCase.gg case opening site?
+                        Kendi vCase.gg vaka açılış sitemi oluşturabilir miyim?
                       </button>
                     </h5>
                   </div>
@@ -350,7 +350,7 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      Yes. The vCase code is open source and available on our{' '}
+                      Evet. VCase kodu açık kaynaklıdır ve{' '}
                       <a href="https://github.com/vgoskins" taget="_blank">
                         GitHub
                       </a>.
@@ -367,7 +367,7 @@ class FaqList extends Component {
                         aria-expanded="true"
                         aria-controls={`collapse-${faqIndex}`}
                       >
-                        Is there an affiliate program for vCase sites?
+                        VCase siteleri için bir ortaklık programı var mı?
                       </button>
                     </h5>
                   </div>
@@ -378,12 +378,12 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      Yes. All sites that adopt the vCase functionality will
-                      automatically earn a 5% affiliate fee, paid to you in
-                      real-time in ETH. Because the vCase affiliate program is
-                      smart-contract based, when someone uses a vKey to open a
-                      vCase on your site, your payment will be sent instantly to
-                      your Ethereum address.
+                     Evet. VCase işlevselliğini benimseyen tüm siteler
+                       otomatik olarak size ödenen% 5'lik bir ortaklık ücreti kazanırsınız.
+                       ETH'de gerçek zamanlı. VCase ortaklık programı olduğundan
+                       Akıllı sözleşme tabanlı, birisi bir vKey'i açmak için
+                       Sitenizde vCase, ödemeniz anında gönderilecektir
+                       Ethereum adresiniz.
                     </div>
                   </div>
                 </div>
