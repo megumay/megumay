@@ -261,7 +261,7 @@ class FaqList extends Component {
                   >
                     <div className="card-body">
                       Tüm vCase açılışlarının sonuçlarını kontrol edebilirsiniz çünkü
-                       vCases'ten üretilen tüm öğeler
+                       vCases ten üretilen tüm öğeler
                        Eteryum blok zinciri. Her bir öğe, bir
                        Tam şeffaflık için blockchain işlemi. Bunun için
                        Nedeni, VGO öğeleri de çoğaltılamaz.
