@@ -144,7 +144,7 @@ class FaqList extends Component {
                     data-parent="#accordion"
                   >
                     <div className="card-body">
-                      vCase.gg, şimdilik Ethereum blockchain'i temel alıyor.
+                      vCase.gg, şimdilik Ethereum blockchain i temel alıyor.
                        geleneksel kasa açılışına göre birçok avantaj getiriyor
                        siteler, esas olarak şeffaflık. Ancak biz taşınana kadar
                        WAX Blockchain, kasa açıklıkları ikiye kadar alabilir
